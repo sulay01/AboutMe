@@ -1,7 +1,7 @@
 
 <header>
   <h1>Sulay Cay | Professional Portfolio</h1>
-  <p>Microbiologist | Associate Scientist | Data Analyst| Business Intelligence Data Anlyst | Data Scientist | Technical Writer</p>
+  <p>Microbiologist | Associate Scientist | Data Analyst| Business Intelligence Data Analyst | Data Scientist | Technical Writer</p>
 </header>
 
 <div class="container">
